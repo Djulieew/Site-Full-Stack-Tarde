@@ -26,3 +26,13 @@ Projeto desenvolvido para aprendizagem de:
 ## Repositório
 
 Projeto Criado durante a Disciplina de Metodologias Ágeis.
+
+## novas funcionalidade
+
+- menu de navegação
+- interatividade que exibi uma mensagem de boas vindas ao carregar a página
+
+## estrutura atualizada do site
+
+- a seção da equipe
+- criada seções para contato e sobre
