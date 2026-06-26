@@ -25,4 +25,4 @@ Projeto desenvolvido para aprendizagem de:
 
 ## Repositório
 
-Projeto Criado duraante a Discplina de Metodologias Ágeis.
+Projeto Criado durante a Disciplina de Metodologias Ágeis.
