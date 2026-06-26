@@ -1,3 +1,7 @@
 function mostrarMensagem() {
-    document.getElementById("mensagem").innerHTML = "parabéns, seu projeto está funcionando corretamente.";
+    document.getElementById("mensagem").innerHTML = "Parabéns, seu projeto está funcionando corretamente.";
 }
+
+window.onload = function() {
+    alert("Bem-vindo ao Site Full Stack Tarde!");
+};
