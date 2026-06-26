@@ -36,3 +36,4 @@ Projeto Criado durante a Disciplina de Metodologias Ágeis.
 
 - a seção da equipe
 - criada seções para contato e sobre
+![Texto Alternativo]("C:\programador_full_stack_tarde\hudson_silva\Site-Full-Stack-Tarde\assets\Captura de tela 2026-06-26 170059.png")
